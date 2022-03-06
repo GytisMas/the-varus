@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d57fab6777654741a2c73bfc1606c57, type: 3}
+  m_Name: RedVirus
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: d99c0b6b95b8d6d40b1a27f21e4fc20e, type: 3}
+  ExplosionPrefab: {fileID: 6263135305653668149, guid: df6d57b1c02e96e4886610a2a7abb312, type: 3}
